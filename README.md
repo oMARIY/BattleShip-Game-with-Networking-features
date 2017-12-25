@@ -10,15 +10,26 @@ moves and the ships to other playing users. This multiplayer side of this progra
 you can play multiplayer that way.  I have not configured the IP addresses and port numbers for this program to be run on 
 two different computers. But it can be easily done if you know the IP of two different computers.
 
-Hope you enjoy using, editing and playing it as much as I enjoyed creating it.
 
+
+Playing against the computer
 ![alt tag](https://github.com/oMARIY/BattleShip-Game-with-Networking-features/blob/master/BattleShip/Battleship%20Images/playing%20against%20ComputerAI.png "Playing against the computer")
 
+
+Loading Multiplayer Mode
 ![alt tag](https://github.com/oMARIY/BattleShip-Game-with-Networking-features/blob/master/BattleShip/Battleship%20Images/loading%20multiplayer.png "Loading Multiplayer Mode")
 
+
+Picking my Battleships
 ![alt tag](https://github.com/oMARIY/BattleShip-Game-with-Networking-features/blob/master/BattleShip/Battleship%20Images/Picking%20my%20BattleShips.png "Picking my Battleships")
 
+
+Connected to Another User
 ![alt tag](https://github.com/oMARIY/BattleShip-Game-with-Networking-features/blob/master/BattleShip/Battleship%20Images/Connected%20to%20Player.png "Connected to Another User")
 
+
+Waiting for Opponent to pick a block
 ![alt tag](https://github.com/oMARIY/BattleShip-Game-with-Networking-features/blob/master/BattleShip/Battleship%20Images/PvP%20waiting%20for%20opponet.png "Waiting for Opponent to pick a block")
 
+
+Hope you enjoy using, editing and playing it as much as I enjoyed creating it.
