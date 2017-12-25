@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<GridPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+          fx:controller="sample.PvPClient" alignment="center" hgap="0" vgap="0" fx:id="PvPGrid">
+    <padding><Insets top="1" right="1" bottom="1" left="1"/></padding>
+
+</GridPane>
